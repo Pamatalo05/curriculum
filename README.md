@@ -6,7 +6,7 @@ Versión web de mi **Currículum Vitae (CV)** desarrollada con **HTML5 y CSS3**.
 
 ## 🌐 Vista previa
 
-[Ver CV en GitHub Pages](TU_URL_DE_GITHUB_PAGES)
+[Ver CV en GitHub Pages](https://pamatalo05.github.io/curriculum/)
 
 ---
 
